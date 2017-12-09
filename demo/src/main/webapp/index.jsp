@@ -2,6 +2,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-你好！！！反对广泛大使馆犯得上
+你好！！！
 </body>
 </html>
